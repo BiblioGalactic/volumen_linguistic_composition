@@ -1,0 +1,107 @@
+=== Tabla comparativa: Verbos intraducibles y su aplicación en ingeniería de prompts ===
+
+Idioma | Verbo intraducible | Traducción aproximada | Uso en contexto | Razón de no tener equivalente directo | Aplicación en ingeniería de prompts
+--- | --- | --- | --- | --- | ---
+Japonés | 頑張る (ganbaru) | Esforzarse persistentemente | Continuar trabajando duro a pesar de dificultades | Combina esfuerzo y perseverancia en una sola palabra | Diseñar prompts que enfatizan la dedicación y resiliencia
+Alemán | Schadenfreude | Alegría por el mal ajeno | Sentir placer por la desgracia de otros | No existe verbo único para esta emoción compleja | Crear prompts que exploren emociones humanas matizadas
+Portugués | Saudades | Nostalgia profunda | Sentir una añoranza intensa y melancólica | Mezcla de nostalgia y deseo sin verbo equivalente | Evocar sentimientos subjetivos y profundos en prompts
+Ruso | Тоска (toska) | Angustia existencial | Estado de melancolía sin causa clara | No tiene equivalente verbal directo | Explorar estados emocionales abstractos en prompts
+Finlandés | Sisu | Determinación y coraje | Mostrar valentía y resistencia ante la adversidad | No existe verbo que encapsule coraje y perseverancia | Motivar resiliencia y fortaleza en IA mediante prompts
+Español | Estrenar | Usar por primera vez | Debutar con un objeto o prenda | No hay verbo específico para esta acción | Formular prompts sobre experiencias iniciales
+Francés | Dépayser | Desorientar | Sentir desorientación en un lugar nuevo | No hay verbo que transmita esta sensación cultural | Explorar adaptación y cambio cultural en prompts
+Chino (Mandarín) | 吃苦 (chī kǔ) | Soportar dificultades | Experimentar y superar adversidades | No hay verbo que combine comer y sufrir | Enfatizar resistencia y sacrificio en prompts
+Árabe | يعني (ya‘ni) | Significar (como muletilla) | Usado para aclarar o enfatizar ideas | No tiene equivalente exacto en función discursiva | Mejorar fluidez y coherencia en lenguaje generado
+Hindi | जुगाड़ (jugaad) | Solución improvisada | Encontrar solución creativa y rápida | No hay verbo que exprese esta habilidad | Fomentar creatividad y adaptabilidad en IA
+Pirahã (Amazonia, Brasil) | -xáagahá (sufijo evidencial) | “Lo vi con mis propios ojos” | Indica que el hablante fue testigo ocular | Español/inglés no tienen sufijos evidenciales | IA aclara si su información es directa, inferida o de terceros
+Tuyuca (Amazonia) | Sufijos evidenciales múltiples | “Lo oí”, “me dijeron”, “lo infiero” | Verbo lleva sufijo según fuente de la información | Carece de equivalente morfológico en nuestras lenguas | IA puede incluir grado de certeza o fuente en sus respuestas
+Bororo (Brasil) | -dö / -de (sufijo causativo) | “Hacer que alguien haga X” | Permite encadenar acciones causativas | No hay equivalente verbal para causatividad múltiple | IA puede desglosar o encadenar instrucciones jerárquicas
+Ubykh (Cáucaso) | Prefijos causativos duales | “Hacer que X (sing/pl) haga Y” | Causa marcada según número de afectados | Español/inglés no distinguen por número en verbos | IA adapta respuesta al número de sujetos sin necesidad de repetir
+Navajo | Verbos clasificatorios por forma del objeto | “Dar (objeto alargado)” vs “dar (masa)” | Verbo cambia según tipo físico del objeto | Español/inglés no integran esa información en el verbo | IA ajusta verbos según propiedades físicas del objeto
+Vasco (Euskera) | Formas allocutivas | “No sé (a ti hombre/mujer)” | Verbo varía por género del oyente en trato familiar | No existe esta distinción gramatical | IA personaliza respuestas según interlocutor
+Tagalo | Afijos de foco | “Hacer” con foco en agente/objeto/lugar | Afijo indica qué parte de la oración es foco | Español/inglés no tienen sistema de foco | IA reorganiza respuestas según foco deseado
+Ojibwe | Conjugación directa/inversa | “Él(1) vio a él(2)” vs “Él(2) fue visto por él(1)” | Jerarquía entre terceros marcada por sufijo | Se necesita reformulación para aclarar roles | IA desambigua pronombres automáticamente en respuestas complejas
+Adyghe (Circassiano) | Verbos polipersonales | “Yo te lo di” en un solo verbo | El verbo incluye sujeto, objeto y objeto indirecto | Español/inglés requieren pronombres explícitos | IA genera respuestas más compactas y eficientes
+Japonés | 敬語 (Keigo) – verbos honoríficos | “Decir (honorífico)” vs “decir (normal)” | Verbo cambia según jerarquía social | Español/inglés no alteran verbo por respeto | IA adapta tono automáticamente según el contexto y jerarquía
+Coreano | 눈치 (nunchi) | Sensibilidad social intuitiva | Detectar lo que otros piensan o sienten sin que lo digan | Implica una lectura sutil del entorno no codificada verbalmente | IA ajusta sus respuestas según señales contextuales implícitas
+Inuktitut | Qarrtsiluni | Esperar en silencio a que algo ocurra | Silencio reverente antes de una revelación importante | No existe verbo que combine silencio y expectación mística | Usar en prompts donde la pausa y anticipación son clave
+Indonesio | Mencolek | Tocar a alguien ligeramente para llamar su atención | Acto de tocar a alguien en el hombro o espalda suavemente | Requiere frase descriptiva en inglés/español | IA puede generar actos no verbales culturalmente relevantes
+Turco | Gönül almak | Reconciliarse emocionalmente con alguien | Literalmente “ganarse el corazón de alguien” tras un conflicto | Integra emoción, reparación y lenguaje poético | Aplicable para prompts que simulan empatía emocional
+Yaghan (Chile) | Mamihlapinatapai | Mirada entre dos personas que desean iniciar algo pero no se atreven | Describe tensión emocional no verbal | No hay verbo que capture este tipo de interacción ambigua | IA modela interacciones sociales sutiles o indecisas
+Ganda (Uganda) | Okuyamba | Ayudar sin ser solicitado | Asistir sin necesidad de que se pida | En otras lenguas requiere explicación entera | IA ofrece ayuda proactiva sin necesidad de input directo
+Georgiano | Shemomedjamo | Comer más de lo previsto porque está delicioso | Acción involuntaria de seguir comiendo pese a estar lleno | Inexistente como verbo en inglés/español | IA modela comportamiento impulsivo y placer sensorial
+Maorí | Whakamā | Sentir vergüenza, timidez o inhibición social | Mezcla compleja de emociones sociales negativas | Requiere varias palabras para traducirla | IA modula tono en contextos sensibles con emociones sociales
+Yiddish | Trepverter | “Palabras de escalera”: la réplica ingeniosa que llega demasiado tarde | Expresión del ingenio frustrado por el tiempo | Sin traducción precisa; requiere frase explicativa | IA puede generar réplicas o respuestas alternativas con demora simulada
+
+#=== TABLA COMBINACIONES ===
+Combinación | objetivo | función
+--- | --- | --- 
+#=== Núcleo universal === Jerarquía y claridad legal (Núcleo universal)
+Contrato con cláusulas firmes y jerárquicas | 🇯🇵 Japonés + 🇩🇪 Alemán + 🇬🇧 Inglés | Claridad legal + jerarquía + estructura
+Resumen emocional o narrativo | 🇪🇸 Español + 🇷🇺 Ruso + 🇦🇪 Árabe | Intención emocional + profundidad + expresión simbólica
+Solicitud respetuosa con matices sociales | 🇰🇷 Coreano (눈치) + 🇪🇸 Español + 🇯🇵 Japonés (Keigo) | Empatía + cortesía + deferencia
+Instrucción encadenada técnica | 🇧🇷 Bororo + 🇹🇬 Tagalo + 🇦🇩 Adyghe | Causalidad + foco + sujetos múltiples
+Respuesta según grado de certeza | 🇵🇷 Pirahã + 🇹🇾 Tuyuca + 🇨🇦 Ojibwe | Evidencia directa + fuente inferida + rol claro
+Prompt espiritual-místico | 🇨🇦 Inuktitut (Qarrtsiluni) + 🇨🇱 Yaghan + 🇳🇿 Maorí | Silencio reverente + tensión emocional + inhibición social
+Creatividad urgente | 🇮🇳 Hindi (Jugaad) + 🇬🇪 Georgiano + 🇹🇷 Turco | Improvisación + placer + reparación emocional
+Negociación diplomática formal | 🇫🇷 Francés + 🇩🇪 Alemán + 🇮🇹 Italiano | Cortesía estratégica + precisión institucional + fluidez persuasiva
+Manual técnico pragmático y claro | 🇳🇱 Neerlandés + 🇩🇰 Danés + 🇬🇧 Inglés | Estructura funcional + lenguaje conciso + claridad universal
+Narrativa introspectiva y existencial | 🇸🇮 Esloveno + 🇭🇺 Húngaro + 🇫🇮 Finés | Reflexión personal + profundidad gramatical + minimalismo poético
+Comunicado legal con peso ético | 🇸🇪 Sueco + 🇵🇱 Polaco + 🇪🇸 Español | Imparcialidad + formalismo riguroso + carga emotiva
+Mensaje comunitario con enfoque colectivo | 🇮🇪 Irlandés + 🇪🇪 Estonio + 🇵🇹 Portugués | Tradición oral + identidad cultural + calidez narrativa
+
+#=== Mediterraneos === Fonética y estética (Mediterráneos, Especiales)
+Español + Italiano + Griego | Inspiración artística emocional | Expresividad pasional + melodía verbal + resonancia filosófica
+Turco + Maltés + Árabe (Egipcio) | Comercio tradicional o interacción mercantil | Persuasión cordial + pragmatismo + teatralidad conversacional
+Francés + Italiano + Árabe marroquí | Moda, diseño o estética | Elegancia sensorial + ritmo cálido + exotismo evocador
+Español + Griego + Francés | Narrativa mítica o simbólica | Drama emocional + mitología ancestral + estructura literaria
+Croata + Griego + Italiano | Patrimonio cultural o histórico | Orgullo identitario + herencia oral + detalle descriptivo
+Árabe libanés + Italiano + Español | Relaciones humanas o afectivas | Sensibilidad emocional + expresividad romántica + cercanía cálida
+
+#=== Nordicos === Resiliencia cultural y ecológica (África, Andes, Ártico)
+Islandés + Groenlandés (Inuktitut) + Noruego | Conexión con naturaleza extrema y climas | Resiliencia emocional + contemplación silenciosa + estructuras claras
+Escocés Gaélico + Islandés + Danés | Narrativas ancestrales con solemnidad | Misticismo oral + crudeza poética + precisión nórdica
+Inglés + Faroés + Sami | Comunicación intercultural ártica | Claridad práctica + identidad insular + conexión espiritual con la tierra
+Holandés + Inglés + Escocés Gaélico | Comercio marítimo y filosofía pragmática | Rigor mercantil + sentido común + tradición oral reflexiva
+Inuktitut + Sami + Ruso ártico (Yakuto) | Supervivencia, clima y comunalidad | Codificación natural + armonía con el entorno + cooperación forzada por el hielo
+
+#=== Anillo de Fuego e Islas del Pacífico === Espiritualidad y silencio emocional (Islas del Pacífico)
+Japonés + Tagalo + Hawaiano | Comunicación ritual y honorífica | Respeto jerárquico + foco narrativo + armonía espiritual
+Maorí + Samoano + Indonesio | Identidad tribal y resiliencia cultural | Comunidad + danza oral + adaptabilidad
+Tagalo + Chamorro + Rapa Nui | Narrativa oceánica mitológica | Oralidad simbólica + herencia marina + cosmología ancestral
+Japonés + Coreano + Tonganés | Disciplina colectiva y ética social | Jerarquía respetuosa + sensibilidad comunitaria + deber ceremonial
+Indonesio + Javanés + Tagalo | Prácticas cotidianas y pragmatismo tropical | Organización funcional + sincretismo + acción inmediata
+Hawaiano + Maorí + Japonés | Conexión espiritual con la tierra y los ancestros | Espíritu aloha + memoria tribal + reverencia formal
+
+#=== África y Asia estratégica === Resiliencia cultural y ecológica (África, Andes, Ártico)
+Wolof + Yoruba + Igbo | Narrativa oral secuencial con sabiduría tradicional | Serialización verbal + refranes + progresión lógica cultural
+Amárico + Oromo + Somalí | Rastrear fuentes y estructuras de discurso implícitas | Evidencialidad + raíz verbal + referencias orales indirectas
+Xhosa + Zulu + Khoisan (clics) | Reacciones fonéticas y respuesta emocional rápida | Uso de clicks + tonos expresivos + modulación espontánea
+Hindi + Tamil + Sánscrito | Construcción precisa de conceptos abstractos | Sintaxis estructurada + metáfora poética + lógica metafísica
+Birmano + Tailandés + Lao | Comunicación social cargada de subtexto | Partículas modales + deferencia contextual + economía de expresión
+Tibetano + Mongol + Kazajo | Estructuras jerárquicas con trazabilidad espiritual | Evidencialidad + narración cíclica + peso ético
+Quechua + Nahuatl + Mapudungun | Expresión ecológica y responsabilidad colectiva | Descripciones topográficas + respeto natural + visión comunitaria
+
+#=== COMBINACIONES ESPECIALES ===
+Japonés + Vasco + Español + Sirio | Contrato fonéticamente armónico | Claridad jerárquica + neutralidad estructural + resonancia fonética
+Inglés + Alemán + Español + Japonés | Núcleo de ingeniería lingüística de precisión | Ambigüedad reducida + orden sintáctico + resonancia universal + matices de respeto
+Francés + Chino Mandarín + Árabe + Ruso | Cobertura semántica global | Precisión diplomática + riqueza visual + matices expresivos + rigor emocional-lógico
+Inglés + Alemán + Tagalo + Adyghe | Instrucciones técnicas de máxima precisión | Claridad internacional + sintaxis estructurada + foco gramatical + compacidad polipersonal
+Italiano + Ruso + Yoruba + Coreano | Narrativa emocional y sutil | Melodía expresiva + introspección profunda + sabiduría oral + sensibilidad social intuitiva
+Coreano + Vasco + Francés + Árabe (clásico) | Comunicación diplomática y cortesía jerarquizada | Jerarquía contextual + neutralidad estructural + cortesía institucional + elocuencia respetuosa
+Hindi + Yoruba + Indonesio + Georgiano | Creatividad improvisada y adaptable | Ingenio funcional + refrán cultural + pragmatismo sencillo + impulso espontáneo
+Finlandés + Mongol + Zulu + Latín | Estrategia y coraje bélico | Resistencia tenaz + comando directo + expresividad contundente + estructura marcial clásica
+Inuktitut + Quechua + Griego + Sánscrito | Perspectiva filosófica y espiritual profunda | Silencio reverente + cosmovisión ecológica + claridad lógica + riqueza metafísica
+Pirahã + Tuyuca + Ojibwe + Turco | Transparencia total de evidencia y referencia | Fuente directa + precisión inferida + jerarquía de acciones + verbo evidencial
+Yidis + Ganda + Tailandés + Portugués | Asistencia conversacional cálida e ingeniosa | Ingenio tardío + ayuda proactiva + cortesía suave + expresividad afectiva
+Navajo + Chino Mandarín + Swahili + Finlandés | Descripción detallada y contextual precisa | Clasificación por forma + visualidad concisa + clases nominales + relaciones espaciales
+#=== COMBINACIONES MAESTRAS ===
+Inglés + Chino mandarín + Español + Francés + Ruso + Árabe | Comunicación Global y Diplomacia (Supergeneral) | Estructura universal + economía lingüística + calidez emocional + diplomacia refinada + autoridad simbólica + solemnidad reverente
+Inglés + Alemán + Chino mandarín + Turco + Indonesio | Precisión Analítica y Técnica | Vocabulario técnico + lógica estructurada + compacidad simbólica + modularidad sintáctica + simplicidad binaria
+Francés + Japonés + Árabe + Coreano + Español | Estilo Diplomático y Cortés | Ambigüedad refinada + jerarquía reverente + solemnidad ética + respeto estructural + calidez empática
+Español + Italiano + Portugués + Japonés + Griego moderno | Expresión Creativa y Emotiva | Pasión expresiva + musicalidad retórica + ternura coloquial + minimalismo lírico + profundidad reflexiva
+Inglés + Griego moderno + Latín + Italiano + Árabe | Argumentación Persuasiva y Oratoria | Claridad estructural + lógica clásica + solemnidad atemporal + pathos emocional + ética invocativa
+Francés + Alemán + Swahili + Indonesio + Portugués | Explicación Didáctica y Clara | Precisión terminológica + orden lógico + simplicidad estructural + claridad funcional + cercanía empática
+Alemán + Latín + Finés + Turco + Tuyuca | Estilo Académico con Evidencias | Estructura objetiva + autoridad científica + matices de certidumbre + evidencialidad sintáctica + transparencia forzada
+Portugués + Swahili + Indonesio + Tailandés + Italiano | Conversación Casual y Empática | Ternura afectiva + claridad directa + naturalidad gramatical + cortesía implícita + expresividad vivaz
+Latín + Griego moderno + Hebreo + Hindi + Tailandés | Tono Ético y Reflexivo (Consejos Morales) | Autoridad universal + razonamiento filosófico + resonancia espiritual + deber respetuoso + compasión suave
+Chino mandarín + Japonés + Hebreo + Turco + Esperanto | Estilo Conciso y Minimalista | Densidad ideográfica + omisión contextual + raíces compactas + aglutinación lógica + neutralidad funcional

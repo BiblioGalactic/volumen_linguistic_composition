@@ -1,0 +1,108 @@
+
+=== Comparative Table: Untranslatable Verbs and Their Application in Prompt Engineering ===
+
+Language | Untranslatable Verb | Approximate Translation | Use in Context | Reason for No Direct Equivalent | Application in Prompt Engineering
+--- | --- | --- | --- | --- | ---
+Japanese | 頑張る (ganbaru) | To persistently strive | To keep working hard despite difficulties | Combines effort and perseverance in one word | Designing prompts that emphasize dedication and resilience
+German | Schadenfreude | Joy at others' misfortune | Feeling pleasure at someone else's misfortune | No single verb for this complex emotion | Create prompts that explore nuanced human emotions
+Portuguese | Saudades | Deep nostalgia | Feeling intense, melancholic longing | Blend of nostalgia and desire with no verb equivalent | Evoke subjective and deep feelings in prompts
+Russian | Тоска (toska) | Existential anguish | State of melancholy without clear cause | No direct verbal equivalent | Explore abstract emotional states in prompts
+Finnish | Sisu | Determination and courage | Showing bravery and endurance in adversity | No verb encapsulates both courage and perseverance | Motivate resilience and strength in AI via prompts
+Spanish | Estrenar | To use for the first time | Debuting with an object or garment | No specific verb for this action | Formulate prompts about first-time experiences
+French | Dépayser | To disorient | Feeling disoriented in a new place | No verb that conveys this cultural sensation | Explore adaptation and cultural change in prompts
+Chinese (Mandarin) | 吃苦 (chī kǔ) | To endure hardships | Experiencing and overcoming adversity | No verb that combines "eat" and "suffer" | Emphasize endurance and sacrifice in prompts
+Arabic | يعني (ya‘ni) | To mean (as a filler) | Used to clarify or emphasize ideas | No exact equivalent for this discourse function | Improve fluency and coherence in generated language
+Hindi | जुगाड़ (jugaad) | Improvised solution | Finding a creative and quick fix | No verb that expresses this skill | Encourage creativity and adaptability in AI
+Pirahã (Amazon, Brazil) | -xáagahá (evidential suffix) | "I saw it with my own eyes" | Indicates the speaker was an eyewitness | Spanish/English lack evidential suffixes | AI clarifies if its information is direct, inferred, or third-party
+Tuyuca (Amazon) | Multiple evidential suffixes | "I heard it", "I was told", "I infer it" | Verb takes suffix based on information source | No morphological equivalent in our languages | AI can include degree of certainty or source in its answers
+Bororo (Brazil) | -dö / -de (causative suffix) | "Make someone do X" | Allows chaining causative actions | No verbal equivalent for multiple causation | AI can break down or chain hierarchical instructions
+Ubykh (Caucasus) | Dual causative prefixes | "Make X (sing/pl) do Y" | Cause marked by number of affected | Spanish/English don't distinguish by number in verbs | AI adapts response to number of subjects without repetition
+Navajo | Classificatory verbs by object shape | "Give (long object)" vs "give (mass)" | Verb changes based on physical type | Spanish/English don't integrate this in verb | AI adjusts verbs by physical properties of object
+Basque (Euskera) | Allocutive forms | "I don't know (to you man/woman)" | Verb varies by gender of listener in familiar speech | This grammatical distinction doesn't exist | AI personalizes responses by interlocutor
+Tagalog | Focus affixes | "Do" with focus on agent/object/location | Affix marks which part of sentence is focus | Spanish/English lack focus system | AI reorganizes answers by desired focus
+Ojibwe | Direct/inverse conjugation | "He(1) saw him(2)" vs "He(2) was seen by him(1)" | Third-party hierarchy marked by suffix | Reformulation needed to clarify roles | AI disambiguates pronouns automatically in complex answers
+Adyghe (Circassian) | Polypersonal verbs | "I gave it to you" in one verb | Verb includes subject, object, and indirect object | Spanish/English require explicit pronouns | AI generates more compact, efficient responses
+Japanese | 敬語 (Keigo) – honorific verbs | "Say (honorific)" vs "say (plain)" | Verb changes by social hierarchy | Spanish/English don't alter verb for respect | AI adapts tone automatically by context and hierarchy
+Korean | 눈치 (nunchi) | Intuitive social sensitivity | Detecting what others think/feel without words | Implies subtle reading of environment not verb-coded | AI adjusts responses by implicit contextual cues
+Inuktitut | Qarrtsiluni | To wait in silence for something to happen | Reverent silence before a major revelation | No verb combining silence and mystical anticipation | Use in prompts where pause and anticipation are key
+Indonesian | Mencolek | To lightly touch someone to get their attention | Act of gently tapping someone on shoulder or back | Requires descriptive phrase in English/Spanish | AI can generate culturally relevant nonverbal acts
+Turkish | Gönül almak | To emotionally reconcile with someone | Literally "win someone's heart" after conflict | Integrates emotion, repair, and poetic language | Useful for prompts simulating emotional empathy
+Yaghan (Chile) | Mamihlapinatapai | The look between two people wishing to start something but neither does | Describes nonverbal emotional tension | No verb captures this ambiguous interaction | AI models subtle or indecisive social interactions
+Ganda (Uganda) | Okuyamba | To help unasked | To assist without being asked | Other languages require whole explanation | AI offers proactive help without direct input
+Georgian | Shemomedjamo | To eat more than intended because it's delicious | Involuntary action of continuing to eat despite being full | Nonexistent as a verb in English/Spanish | AI models impulsive behavior and sensory pleasure
+Maori | Whakamā | To feel shame, shyness, or social inhibition | Complex mix of negative social emotions | Needs several words to translate | AI modulates tone in sensitive contexts with social emotion
+Yiddish | Trepverter | "Staircase words": witty retort that comes too late | Expression of wit frustrated by timing | No precise translation; needs explanatory phrase | AI can generate retorts or alternative replies with simulated delay
+
+#=== COMBINED TABLES ===
+Combination | Objective | Function
+--- | --- | --- 
+#=== Universal Core === Hierarchy and Legal Clarity (Universal Core)
+Contract with firm and hierarchical clauses | 🇯🇵 Japanese + 🇩🇪 German + 🇬🇧 English | Legal clarity + hierarchy + structure
+Emotional or narrative summary | 🇪🇸 Spanish + 🇷🇺 Russian + 🇦🇪 Arabic | Emotional intent + depth + symbolic expression
+Respectful request with social nuances | 🇰🇷 Korean (눈치) + 🇪🇸 Spanish + 🇯🇵 Japanese (Keigo) | Empathy + politeness + deference
+Chained technical instruction | 🇧🇷 Bororo + 🇹🇬 Tagalog + 🇦🇩 Adyghe | Causality + focus + multiple subjects
+Response by degree of certainty | 🇵🇷 Pirahã + 🇹🇾 Tuyuca + 🇨🇦 Ojibwe | Direct evidence + inferred source + clear role
+Spiritual-mystical prompt | 🇨🇦 Inuktitut (Qarrtsiluni) + 🇨🇱 Yaghan + 🇳🇿 Maori | Reverent silence + emotional tension + social inhibition
+Urgent creativity | 🇮🇳 Hindi (Jugaad) + 🇬🇪 Georgian + 🇹🇷 Turkish | Improvisation + pleasure + emotional repair
+Formal diplomatic negotiation | 🇫🇷 French + 🇩🇪 German + 🇮🇹 Italian | Strategic politeness + institutional precision + persuasive fluency
+Pragmatic, clear technical manual | 🇳🇱 Dutch + 🇩🇰 Danish + 🇬🇧 English | Functional structure + concise language + universal clarity
+Introspective and existential narrative | 🇸🇮 Slovenian + 🇭🇺 Hungarian + 🇫🇮 Finnish | Personal reflection + grammatical depth + poetic minimalism
+Legal statement with ethical weight | 🇸🇪 Swedish + 🇵🇱 Polish + 🇪🇸 Spanish | Impartiality + rigorous formalism + emotional charge
+Community message with collective focus | 🇮🇪 Irish + 🇪🇪 Estonian + 🇵🇹 Portuguese | Oral tradition + cultural identity + narrative warmth
+
+#=== Mediterraneans === Phonetics and Aesthetics (Mediterraneans, Specials)
+Spanish + Italian + Greek | Artistic emotional inspiration | Passionate expressiveness + verbal melody + philosophical resonance
+Turkish + Maltese + Arabic (Egyptian) | Traditional commerce or mercantile interaction | Cordial persuasion + pragmatism + conversational theatricality
+French + Italian + Moroccan Arabic | Fashion, design, or aesthetics | Sensory elegance + warm rhythm + evocative exoticism
+Spanish + Greek + French | Mythical or symbolic narrative | Emotional drama + ancestral mythology + literary structure
+Croatian + Greek + Italian | Cultural or historical heritage | Identity pride + oral heritage + descriptive detail
+Lebanese Arabic + Italian + Spanish | Human or affective relationships | Emotional sensitivity + romantic expressiveness + warm closeness
+
+#=== Nordics === Cultural and Ecological Resilience (Africa, Andes, Arctic)
+Icelandic + Greenlandic (Inuktitut) + Norwegian | Connection with extreme nature and climates | Emotional resilience + silent contemplation + clear structures
+Scottish Gaelic + Icelandic + Danish | Ancestral narratives with solemnity | Oral mysticism + poetic rawness + Nordic precision
+English + Faroese + Sami | Intercultural Arctic communication | Practical clarity + insular identity + spiritual connection to land
+Dutch + English + Scottish Gaelic | Maritime trade and pragmatic philosophy | Mercantile rigor + common sense + reflective oral tradition
+Inuktitut + Sami + Arctic Russian (Yakut) | Survival, climate, and communality | Natural coding + harmony with environment + cooperation forced by ice
+
+#=== Ring of Fire and Pacific Islands === Spirituality and Emotional Silence (Pacific Islands)
+Japanese + Tagalog + Hawaiian | Ritual and honorific communication | Hierarchical respect + narrative focus + spiritual harmony
+Maori + Samoan + Indonesian | Tribal identity and cultural resilience | Community + oral dance + adaptability
+Tagalog + Chamorro + Rapa Nui | Oceanic mythological narrative | Symbolic orality + marine heritage + ancestral cosmology
+Japanese + Korean + Tongan | Collective discipline and social ethics | Respectful hierarchy + community sensitivity + ceremonial duty
+Indonesian + Javanese + Tagalog | Daily practices and tropical pragmatism | Functional organization + syncretism + immediate action
+Hawaiian + Maori + Japanese | Spiritual connection with land and ancestors | Aloha spirit + tribal memory + formal reverence
+
+#=== Africa and Strategic Asia === Cultural and Ecological Resilience (Africa, Andes, Arctic)
+Wolof + Yoruba + Igbo | Sequential oral narrative with traditional wisdom | Verbal serialization + proverbs + cultural logical progression
+Amharic + Oromo + Somali | Tracing sources and implicit discourse structures | Evidentiality + verbal root + indirect oral references
+Xhosa + Zulu + Khoisan (clicks) | Phonetic reactions and fast emotional response | Use of clicks + expressive tones + spontaneous modulation
+Hindi + Tamil + Sanskrit | Precise construction of abstract concepts | Structured syntax + poetic metaphor + metaphysical logic
+Burmese + Thai + Lao | Social communication loaded with subtext | Modal particles + contextual deference + economy of expression
+Tibetan + Mongolian + Kazakh | Hierarchical structures with spiritual traceability | Evidentiality + cyclical narration + ethical weight
+Quechua + Nahuatl + Mapudungun | Ecological expression and collective responsibility | Topographical descriptions + natural respect + community vision
+
+#=== SPECIAL COMBINATIONS ===
+Japanese + Basque + Spanish + Syrian | Phonetically harmonious contract | Hierarchical clarity + structural neutrality + phonetic resonance
+English + German + Spanish + Japanese | Core of precision linguistic engineering | Reduced ambiguity + syntactic order + universal resonance + nuance of respect
+French + Chinese Mandarin + Arabic + Russian | Global semantic coverage | Diplomatic precision + visual richness + expressive nuance + emotional-logical rigor
+English + German + Tagalog + Adyghe | Maximum precision technical instructions | International clarity + structured syntax + grammatical focus + polypersonal compactness
+Italian + Russian + Yoruba + Korean | Emotional and subtle narrative | Expressive melody + deep introspection + oral wisdom + intuitive social sensitivity
+Korean + Basque + French + Classical Arabic | Diplomatic communication and hierarchical politeness | Contextual hierarchy + structural neutrality + institutional courtesy + respectful eloquence
+Hindi + Yoruba + Indonesian + Georgian | Improvised and adaptable creativity | Functional ingenuity + cultural proverb + simple pragmatism + spontaneous impulse
+Finnish + Mongolian + Zulu + Latin | Strategy and martial courage | Tenacious resistance + direct command + forceful expressiveness + classical martial structure
+Inuktitut + Quechua + Greek + Sanskrit | Deep philosophical and spiritual perspective | Reverent silence + ecological worldview + logical clarity + metaphysical richness
+Pirahã + Tuyuca + Ojibwe + Turkish | Total transparency of evidence and reference | Direct source + inferred precision + action hierarchy + evidential verb
+Yiddish + Ganda + Thai + Portuguese | Warm and witty conversational assistance | Belated wit + proactive help + gentle politeness + affective expressiveness
+Navajo + Chinese Mandarin + Swahili + Finnish | Detailed and precise contextual description | Classification by form + concise visuality + nominal classes + spatial relations
+#=== MASTER COMBINATIONS ===
+English + Chinese Mandarin + Spanish + French + Russian + Arabic | Global Communication and Diplomacy (Supergeneral) | Universal structure + linguistic economy + emotional warmth + refined diplomacy + symbolic authority + reverent solemnity
+English + German + Chinese Mandarin + Turkish + Indonesian | Analytical and Technical Precision | Technical vocabulary + structured logic + symbolic compactness + syntactic modularity + binary simplicity
+French + Japanese + Arabic + Korean + Spanish | Diplomatic and Polite Style | Refined ambiguity + reverent hierarchy + ethical solemnity + structural respect + empathic warmth
+Spanish + Italian + Portuguese + Japanese + Modern Greek | Creative and Emotional Expression | Expressive passion + rhetorical musicality + colloquial tenderness + lyrical minimalism + reflective depth
+English + Modern Greek + Latin + Italian + Arabic | Persuasive Argumentation and Oratory | Structural clarity + classical logic + timeless solemnity + emotional pathos + invocative ethics
+French + German + Swahili + Indonesian + Portuguese | Didactic and Clear Explanation | Terminological precision + logical order + structural simplicity + functional clarity + empathic closeness
+German + Latin + Finnish + Turkish + Tuyuca | Academic Style with Evidence | Objective structure + scientific authority + certainty nuances + syntactic evidentiality + forced transparency
+Portuguese + Swahili + Indonesian + Thai + Italian | Casual and Empathic Conversation | Affective tenderness + direct clarity + grammatical naturalness + implicit politeness + lively expressiveness
+Latin + Modern Greek + Hebrew + Hindi + Thai | Ethical and Reflective Tone (Moral Advice) | Universal authority + philosophical reasoning + spiritual resonance + respectful duty + gentle compassion
+Chinese Mandarin + Japanese + Hebrew + Turkish + Esperanto | Concise and Minimalist Style | Ideographic density + contextual omission + compact roots + logical agglutination + functional neutrality
