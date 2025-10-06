@@ -94,3 +94,7 @@
 - 所有规则与结构遵循技术性与层级性逻辑。
 
 这可应用于操作性AI、叙事协议、代理界面、网络语义宣言或技术仪式语言等场景。
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

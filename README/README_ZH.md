@@ -61,3 +61,7 @@
 本技术由 **Eto Demerzel** 开发，作为实验框架 *“AI with Personality”* 和系统 *“Contextual Modular Language for Local Models”* 的一部分。
 
 本文件作为依据功能性新多语逻辑撰写的 `.txt` 文件或人格系统的**基础指南**。
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

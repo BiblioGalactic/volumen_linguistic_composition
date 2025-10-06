@@ -1,0 +1,111 @@
+=== Taula comparativa: Verbs intraduïbles i la seva aplicació en enginyeria de prompts ===
+
+Idioma | Verb intraduïble | Traducció aproximada | Ús en context | Raó de no tenir equivalent directe | Aplicació en enginyeria de prompts
+--- | --- | --- | --- | --- | ---
+Japonès | 頑張る (ganbaru) | Esforçar-se persistentment | Continuar treballant dur malgrat dificultats | Combina esforç i perseverança en una sola paraula | Dissenyar prompts que emfatitzen la dedicació i resiliència
+Alemany | Schadenfreude | Alegria pel mal aliè | Sentir plaer per la desgràcia d'altres | No existeix verb únic per aquesta emoció complexa | Crear prompts que exploren emocions humanes matisades
+Portuguès | Saudades | Nostàlgia profunda | Sentir una enyorança intensa i melancòlica | Barreja de nostàlgia i desig sense verb equivalent | Evocar sentiments subjectius i profunds en prompts
+Rus | Тоска (toska) | Angoixa existencial | Estat de melancolia sense causa clara | No té equivalent verbal directe | Explorar estats emocionals abstractes en prompts
+Finès | Sisu | Determinació i coratge | Mostrar valentia i resistència davant l'adversitat | No existeix verb que encapsuli coratge i perseverança | Motivar resiliència i fortalesa en IA mitjançant prompts
+Espanyol | Estrenar | Usar per primera vegada | Debutar amb un objecte o peça de roba | No hi ha verb específic per aquesta acció | Formular prompts sobre experiències inicials
+Francès | Dépayser | Desorientar | Sentir desorientació en un lloc nou | No hi ha verb que transmeti aquesta sensació cultural | Explorar adaptació i canvi cultural en prompts
+Xinès (Mandarí) | 吃苦 (chī kǔ) | Suportar dificultats | Experimentar i superar adversitats | No hi ha verb que combini menjar i patir | Emfatitzar resistència i sacrifici en prompts
+Àrab | يعني (ya'ni) | Significar (com a muletilla) | Usat per aclarir o emfatitzar idees | No té equivalent exacte en funció discursiva | Millorar fluïdesa i coherència en llenguatge generat
+Hindi | जुगाड़ (jugaad) | Solució improvisada | Trobar solució creativa i ràpida | No hi ha verb que expressi aquesta habilitat | Fomentar creativitat i adaptabilitat en IA
+Pirahã (Amazònia, Brasil) | -xáagahá (sufix evidencial) | "Ho vaig veure amb els meus propis ulls" | Indica que el parlant va ser testimoni ocular | Espanyol/anglès no tenen sufixos evidencials | IA aclareix si la seva informació és directa, inferida o de tercers
+Tuyuca (Amazònia) | Sufixos evidencials múltiples | "Ho vaig sentir", "em van dir", "ho infereixo" | Verb porta sufix segons font de la informació | Manca d'equivalent morfològic en les nostres llengües | IA pot incloure grau de certesa o font en les seves respostes
+Bororo (Brasil) | -dö / -de (sufix causatiu) | "Fer que algú faci X" | Permet encadenar accions causatives | No hi ha equivalent verbal per causativitat múltiple | IA pot desglossar o encadenar instruccions jeràrquiques
+Ubykh (Caucas) | Prefixos causatius duals | "Fer que X (sing/pl) faci Y" | Causa marcada segons nombre d'afectats | Espanyol/anglès no distingeixen per nombre en verbs | IA adapta resposta al nombre de subjectes sense necessitat de repetir
+Navajo | Verbs classificatoris per forma de l'objecte | "Donar (objecte allargat)" vs "donar (massa)" | Verb canvia segons tipus físic de l'objecte | Espanyol/anglès no integren aquesta informació en el verb | IA ajusta verbs segons propietats físiques de l'objecte
+Basc (Euskera) | Formes al·locutives | "No sé (a tu home/dona)" | Verb varia per gènere de l'oient en tracte familiar | No existeix aquesta distinció gramatical | IA personalitza respostes segons interlocutor
+Tagal | Afixos de focus | "Fer" amb focus en agent/objecte/lloc | Afix indica quina part de l'oració és focus | Espanyol/anglès no tenen sistema de focus | IA reorganitza respostes segons focus desitjat
+Ojibwe | Conjugació directa/inversa | "Ell(1) va veure a ell(2)" vs "Ell(2) va ser vist per ell(1)" | Jerarquia entre tercers marcada per sufix | Es necessita reformulació per aclarir rols | IA desambigua pronoms automàticament en respostes complexes
+Adyghe (Circassià) | Verbs polipersonals | "Jo te'l vaig donar" en un sol verb | El verb inclou subjecte, objecte i objecte indirecte | Espanyol/anglès requereixen pronoms explícits | IA genera respostes més compactes i eficients
+Japonès | 敬語 (Keigo) – verbs honorífics | "Dir (honorífic)" vs "dir (normal)" | Verb canvia segons jerarquia social | Espanyol/anglès no alteren verb per respecte | IA adapta to automàticament segons el context i jerarquia
+Coreà | 눈치 (nunchi) | Sensibilitat social intuïtiva | Detectar el que altres pensen o senten sense que ho diguin | Implica una lectura subtil de l'entorn no codificada verbalment | IA ajusta les seves respostes segons senyals contextuals implícites
+Inuktitut | Qarrtsiluni | Esperar en silenci que alguna cosa passi | Silenci reverent abans d'una revelació important | No existeix verb que combini silenci i expectació mística | Usar en prompts on la pausa i anticipació són clau
+Indonesi | Mencolek | Tocar algú lleugerament per cridar la seva atenció | Acte de tocar algú a l'espatlla o esquena suaument | Requereix frase descriptiva en anglès/espanyol | IA pot generar actes no verbals culturalment rellevants
+Turc | Gönül almak | Reconciliar-se emocionalment amb algú | Literalment "guanyar-se el cor d'algú" després d'un conflicte | Integra emoció, reparació i llenguatge poètic | Aplicable per prompts que simulen empatia emocional
+Yaghan (Xile) | Mamihlapinatapai | Mirada entre dues persones que desitgen iniciar alguna cosa però no s'atreveixen | Descriu tensió emocional no verbal | No hi ha verb que capturi aquest tipus d'interacció ambigua | IA modela interaccions socials subtils o indecises
+Ganda (Uganda) | Okuyamba | Ajudar sense ser sol·licitat | Assistir sense necessitat que es demani | En altres llengües requereix explicació sencera | IA ofereix ajuda proactiva sense necessitat d'input directe
+Georgià | Shemomedjamo | Menjar més del previst perquè està deliciós | Acció involuntària de continuar menjant tot i estar ple | Inexistent com a verb en anglès/espanyol | IA modela comportament impulsiu i plaer sensorial
+Maori | Whakamā | Sentir vergonya, timidesa o inhibició social | Barreja complexa d'emocions socials negatives | Requereix diverses paraules per traduir-la | IA modula to en contextos sensibles amb emocions socials
+Ídix | Trepverter | "Paraules d'escala": la rèplica enginyosa que arriba massa tard | Expressió de l'enginy frustrat pel temps | Sense traducció precisa; requereix frase explicativa | IA pot generar rèpliques o respostes alternatives amb retard simulat
+
+#=== TAULA COMBINACIONS ===
+Combinació | objectiu | funció
+--- | --- | --- 
+#=== Nucli universal === Jerarquia i claredat legal (Nucli universal)
+Contracte amb clàusules fermes i jeràrquiques | 🇯🇵 Japonès + 🇩🇪 Alemany + 🇬🇧 Anglès | Claredat legal + jerarquia + estructura
+Resum emocional o narratiu | 🇪🇸 Espanyol + 🇷🇺 Rus + 🇦🇪 Àrab | Intenció emocional + profunditat + expressió simbòlica
+Sol·licitud respectuosa amb matisos socials | 🇰🇷 Coreà (눈치) + 🇪🇸 Espanyol + 🇯🇵 Japonès (Keigo) | Empatia + cortesia + deferència
+Instrucció encadenada tècnica | 🇧🇷 Bororo + 🇹🇬 Tagal + 🇦🇩 Adyghe | Causalitat + focus + subjectes múltiples
+Resposta segons grau de certesa | 🇵🇷 Pirahã + 🇹🇾 Tuyuca + 🇨🇦 Ojibwe | Evidència directa + font inferida + rol clar
+Prompt espiritual-místic | 🇨🇦 Inuktitut (Qarrtsiluni) + 🇨🇱 Yaghan + 🇳🇿 Maori | Silenci reverent + tensió emocional + inhibició social
+Creativitat urgent | 🇮🇳 Hindi (Jugaad) + 🇬🇪 Georgià + 🇹🇷 Turc | Improvisació + plaer + reparació emocional
+Negociació diplomàtica formal | 🇫🇷 Francès + 🇩🇪 Alemany + 🇮🇹 Italià | Cortesia estratègica + precisió institucional + fluïdesa persuasiva
+Manual tècnic pragmàtic i clar | 🇳🇱 Neerlandès + 🇩🇰 Danès + 🇬🇧 Anglès | Estructura funcional + llenguatge concís + claredat universal
+Narrativa introspectiva i existencial | 🇸🇮 Eslovè + 🇭🇺 Hongarès + 🇫🇮 Finès | Reflexió personal + profunditat gramatical + minimalisme poètic
+Comunicat legal amb pes ètic | 🇸🇪 Suec + 🇵🇱 Polonès + 🇪🇸 Espanyol | Imparcialitat + formalisme rigorós + càrrega emotiva
+Missatge comunitari amb enfocament col·lectiu | 🇮🇪 Irlandès + 🇪🇪 Estonià + 🇵🇹 Portuguès | Tradició oral + identitat cultural + calidesa narrativa
+
+#=== Mediterranis === Fonètica i estètica (Mediterranis, Especials)
+Espanyol + Italià + Grec | Inspiració artística emocional | Expressivitat passional + melodia verbal + ressonància filosòfica
+Turc + Maltès + Àrab (Egipci) | Comerç tradicional o interacció mercantil | Persuasió cordial + pragmatisme + teatralitat conversacional
+Francès + Italià + Àrab marroquí | Moda, disseny o estètica | Elegància sensorial + ritme càlid + exotisme evocador
+Espanyol + Grec + Francès | Narrativa mítica o simbòlica | Drama emocional + mitologia ancestral + estructura literària
+Croat + Grec + Italià | Patrimoni cultural o històric | Orgull identitari + herència oral + detall descriptiu
+Àrab libanès + Italià + Espanyol | Relacions humanes o afectives | Sensibilitat emocional + expressivitat romàntica + proximitat càlida
+
+#=== Nòrdics === Resiliència cultural i ecològica (Àfrica, Andes, Àrtic)
+Islandès + Grenlandès (Inuktitut) + Noruec | Connexió amb naturalesa extrema i climes | Resiliència emocional + contemplació silenciosa + estructures clares
+Escocès Gaèlic + Islandès + Danès | Narratives ancestrals amb solemnitat | Misticisme oral + cruesa poètica + precisió nòrdica
+Anglès + Feroès + Sami | Comunicació intercultural àrtica | Claredat pràctica + identitat insular + connexió espiritual amb la terra
+Holandès + Anglès + Escocès Gaèlic | Comerç marítim i filosofia pragmàtica | Rigor mercantil + sentit comú + tradició oral reflexiva
+Inuktitut + Sami + Rus àrtic (Iakut) | Supervivència, clima i comunalitat | Codificació natural + harmonia amb l'entorn + cooperació forçada pel gel
+
+#=== Anell de Foc i Illes del Pacífic === Espiritualitat i silenci emocional (Illes del Pacífic)
+Japonès + Tagal + Hawaià | Comunicació ritual i honorífica | Respecte jeràrquic + focus narratiu + harmonia espiritual
+Maori + Samoà + Indonesi | Identitat tribal i resiliència cultural | Comunitat + dansa oral + adaptabilitat
+Tagal + Chamorro + Rapa Nui | Narrativa oceànica mitològica | Oralitat simbòlica + herència marina + cosmologia ancestral
+Japonès + Coreà + Tongalès | Disciplina col·lectiva i ètica social | Jerarquia respectuosa + sensibilitat comunitària + deure ceremonial
+Indonesi + Javanès + Tagal | Pràctiques quotidianes i pragmatisme tropical | Organització funcional + sincretisme + acció immediata
+Hawaià + Maori + Japonès | Connexió espiritual amb la terra i els ancestres | Esperit aloha + memòria tribal + reverència formal
+
+#=== Àfrica i Àsia estratègica === Resiliència cultural i ecològica (Àfrica, Andes, Àrtic)
+Wòlof + Ioruba + Igbo | Narrativa oral seqüencial amb saviesa tradicional | Serialització verbal + refranys + progressió lògica cultural
+Amhàric + Oromo + Somali | Rastrejar fonts i estructures de discurs implícites | Evidencialitat + arrel verbal + referències orals indirectes
+Xosa + Zulu + Khoisan (clics) | Reaccions fonètiques i resposta emocional ràpida | Ús de clics + tons expressius + modulació espontània
+Hindi + Tàmil + Sànscrit | Construcció precisa de conceptes abstractes | Sintaxi estructurada + metàfora poètica + lògica metafísica
+Birmà + Tailandès + Laosià | Comunicació social carregada de subtext | Partícules modals + deferència contextual + economia d'expressió
+Tibetà + Mongol + Kazakh | Estructures jeràrquiques amb traçabilitat espiritual | Evidencialitat + narració cíclica + pes ètic
+Quítxua + Nàhuatl + Mapudungun | Expressió ecològica i responsabilitat col·lectiva | Descripcions topogràfiques + respecte natural + visió comunitària
+
+#=== COMBINACIONS ESPECIALS ===
+Japonès + Basc + Espanyol + Siri | Contracte fonèticament harmònic | Claredat jeràrquica + neutralitat estructural + ressonància fonètica
+Anglès + Alemany + Espanyol + Japonès | Nucli d'enginyeria lingüística de precisió | Ambigüitat reduïda + ordre sintàctic + ressonància universal + matisos de respecte
+Francès + Xinès Mandarí + Àrab + Rus | Cobertura semàntica global | Precisió diplomàtica + riquesa visual + matisos expressius + rigor emocional-lògic
+Anglès + Alemany + Tagal + Adyghe | Instruccions tècniques de màxima precisió | Claredat internacional + sintaxi estructurada + focus gramatical + compacitat polipersonal
+Italià + Rus + Ioruba + Coreà | Narrativa emocional i subtil | Melodia expressiva + introspecció profunda + saviesa oral + sensibilitat social intuïtiva
+Coreà + Basc + Francès + Àrab (clàssic) | Comunicació diplomàtica i cortesia jerarquitzada | Jerarquia contextual + neutralitat estructural + cortesia institucional + eloqüència respectuosa
+Hindi + Ioruba + Indonesi + Georgià | Creativitat improvisada i adaptable | Enginy funcional + refrany cultural + pragmatisme senzill + impuls espontani
+Finès + Mongol + Zulu + Llatí | Estratègia i coratge bèl·lic | Resistència tenaç + comandament directe + expressivitat contundent + estructura marcial clàssica
+Inuktitut + Quítxua + Grec + Sànscrit | Perspectiva filosòfica i espiritual profunda | Silenci reverent + cosmovisió ecològica + claredat lògica + riquesa metafísica
+Pirahã + Tuyuca + Ojibwe + Turc | Transparència total d'evidència i referència | Font directa + precisió inferida + jerarquia d'accions + verb evidencial
+Ídix + Ganda + Tailandès + Portuguès | Assistència conversacional càlida i enginyosa | Enginy tardà + ajuda proactiva + cortesia suau + expressivitat afectiva
+Navajo + Xinès Mandarí + Suahili + Finès | Descripció detallada i contextual precisa | Classificació per forma + visualitat concisa + classes nominals + relacions espacials
+#=== COMBINACIONS MESTRES ===
+Anglès + Xinès mandarí + Espanyol + Francès + Rus + Àrab | Comunicació Global i Diplomàcia (Supergeneral) | Estructura universal + economia lingüística + calidesa emocional + diplomàcia refinada + autoritat simbòlica + solemnitat reverencial
+Anglès + Alemany + Xinès mandarí + Turc + Indonesi | Precisió Analítica i Tècnica | Vocabulari tècnic + lògica estructurada + compacitat simbòlica + modularitat sintàctica + simplicitat binària
+Francès + Japonès + Àrab + Coreà + Espanyol | Estil Diplomàtic i Cortès | Ambigüitat refinada + jerarquia reverencial + solemnitat ètica + respecte estructural + calidesa empàtica
+Espanyol + Italià + Portuguès + Japonès + Grec modern | Expressió Creativa i Emotiva | Passió expressiva + musicalitat retòrica + tendresa col·loquial + minimalisme líric + profunditat reflexiva
+Anglès + Grec modern + Llatí + Italià + Àrab | Argumentació Persuasiva i Oratòria | Claredat estructural + lògica clàssica + solemnitat atemporal + pathos emocional + ètica invocativa
+Francès + Alemany + Suahili + Indonesi + Portuguès | Explicació Didàctica i Clara | Precisió terminològica + ordre lògic + simplicitat estructural + claredat funcional + proximitat empàtica
+Alemany + Llatí + Finès + Turc + Tuyuca | Estil Acadèmic amb Evidències | Estructura objectiva + autoritat científica + matisos de certitud + evidencialitat sintàctica + transparència forçada
+Portuguès + Suahili + Indonesi + Tailandès + Italià | Conversa Casual i Empàtica | Tendresa afectiva + claredat directa + naturalitat gramatical + cortesia implícita + expressivitat vivaç
+Llatí + Grec modern + Hebreu + Hindi + Tailandès | To Ètic i Reflexiu (Consells Morals) | Autoritat universal + raonament filosòfic + ressonància espiritual + deure respectuós + compassió suau
+Xinès mandarí + Japonès + Hebreu + Turc + Esperanto | Estil Concís i Minimalista | Densitat ideogràfica + omissió contextual + arrels compactes + aglutinació lògica + neutralitat funcional
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

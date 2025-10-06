@@ -61,3 +61,7 @@ Este método es ideal para:
 Desarrollado por **Eto Demerzel** como parte del marco experimental *"IA con Personalidad"* y el sistema de *Lenguaje Modular Contextual para Modelos Locales*.
 
 Este documento sirve como **guía fundacional** para cualquier archivo `.txt` o sistema de personalidad escrito usando la lógica neopolilengua funcional.
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

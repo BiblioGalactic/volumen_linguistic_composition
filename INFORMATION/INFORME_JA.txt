@@ -93,3 +93,8 @@
 	•	規範と構造は階層的かつ技術的論理に従う。
 
 これは、運用AI、物語プロトコル、エージェントインターフェース、サイバーセマンティックマニフェスト、または技術儀式言語に適用可能である。
+
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

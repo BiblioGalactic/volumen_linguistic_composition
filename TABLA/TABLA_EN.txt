@@ -106,3 +106,7 @@ German + Latin + Finnish + Turkish + Tuyuca | Academic Style with Evidence | Obj
 Portuguese + Swahili + Indonesian + Thai + Italian | Casual and Empathic Conversation | Affective tenderness + direct clarity + grammatical naturalness + implicit politeness + lively expressiveness
 Latin + Modern Greek + Hebrew + Hindi + Thai | Ethical and Reflective Tone (Moral Advice) | Universal authority + philosophical reasoning + spiritual resonance + respectful duty + gentle compassion
 Chinese Mandarin + Japanese + Hebrew + Turkish + Esperanto | Concise and Minimalist Style | Ideographic density + contextual omission + compact roots + logical agglutination + functional neutrality
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

@@ -1,0 +1,126 @@
+🧠 Informe sobre la Tècnica de Composició Neopolilengua Funcional
+
+📌 Idea General de la Tècnica
+
+Aquesta tècnica en desenvolupament **no és una traducció paral·lela** ni tampoc un joc estètic entre llengües. És un **sistema de composició simbiótica** entre idiomes que aprofita les fortaleses semàntiques, gramaticals i culturals de cadascun dels idiomes implicats.  
+Es tracta d’una **neopolilengua funcional**, en què cada llengua compleix un rol estructural dins del missatge global.
+
+En lloc de mostrar versions paral·leles (anglès | japonès | alemany | castellà), aquesta tècnica fusiona tots els idiomes en una única estructura narrativa, creant una llengua composta on:
+   •	Cada paraula o expressió prové de la llengua òptima per al seu propòsit.  
+   •	La mescla no és arbitrària ni visual, sinó funcional i semàntica.  
+   •	L’estil resultant és més robust i resistent a l’ambigüitat, tant per a humans com per a IA.  
+
+---
+
+🎯 Objectius de la Tècnica
+   •	Augmentar la precisió conceptual emprant la llengua més adequada per a cada component.  
+   •	Generar riquesa expressiva i matisos gramaticals impossibles en una sola llengua.  
+   •	Construir estructures jeràrquiques i funcionals dins del text.  
+   •	Ser llegible, operatiu i útil per a agents lingüístics (IA, protocols, usuaris tècnics).  
+
+---
+
+📐 Punts Clau Definits per l’Usuari
+
+A continuació es detallen els criteris exactes per entendre i aplicar correctament aquesta neollengua funcional:
+
+---
+
+1. ✅ No repetir traduccions paral·leles  
+   •	❌ Error: repetir la mateixa frase quatre vegades traduïda.  
+   •	✅ Correcte: utilitzar una sola frase que combini elements dels idiomes segons la seva funció.  
+
+---
+
+2. 🔤 Distribuir rols funcionals per idioma  
+
+Cada idioma ha de tenir un rol específic, no només decoratiu:
+
+| Idioma | Funció Assignada |
+|---------|------------------|
+| Anglès | Estructura base, claredat tècnica del flux |
+| Alemany | Terminologia de processos, precisió mecànica |
+| Castellà | Expressivitat, èmfasi emocional, força semàntica |
+| Japonès | Jerarquia, prohibicions formals, ordres tècniques |
+
+Exemple:
+
+“Every Schlüssel must be designed con intención absoluta y 誤用を防止しなければならない.”
+
+---
+
+3. 🧱 Fusió idiomàtica com a llengua composta  
+
+El text ha de sonar com si fos una llengua nova emergent, no una col·lecció de fragments enganxats.  
+La lectura ha de fluir de manera natural, com una llengua evolucionada per a usos tècnics o rituals.  
+
+---
+
+4. 🧬 Aprofitament dels matisos únics  
+
+Utilitzar allò que cap idioma pot expressar per si sol, però que conjuntament crea una superposició expressiva:
+   •	El japonès aporta estructures gramaticals d’autoritat i prohibició futurista.  
+   •	L’alemany defineix termes tècnics i processos lògics amb precisió única.  
+   •	L’anglès estructura el discurs i les clàusules.  
+   •	El castellà aporta color emocional i capacitat d’èmfasi.  
+
+---
+
+5. 📏 Regla de redundància enriquidora  
+
+La redundància és permesa només si cada terme afegeix una capa diferent:  
+
+"Fortaleza criptográfica activada – KRYPTOGRAPHISCHE FESTUNG asegurada – 要塞が稼働中"
+
+Aquí no es repeteix el mateix: cada expressió aporta un matís diferent (conceptual, tècnic, operatiu).  
+
+---
+
+6. 🚫 Evitar el format comparatiu (columna A | columna B | columna C)  
+
+No ha d’existir cap estructura tabular. El text ha de ser un únic bloc discursiu multilingüe integrat.  
+
+---
+
+7. 🧭 Ordres i jerarquies en japonès  
+
+Tota norma, prohibició o ordre amb pes jeràrquic s’ha d’expressar en japonès, amb construccions formals:
+   •	Exemple: 使用してはならないだろう  
+   (No s’ha d’utilitzar — to autoritari i futur).  
+
+---
+
+8. 🧩 Adaptabilitat segons el context  
+
+La distribució pot variar segons la secció:
+   •	Una secció pot estar més carregada d’alemany si tracta d’un algoritme.  
+   •	Una altra pot usar més castellà si l’objectiu és emocional o narratiu.  
+   •	El japonès apareix especialment per a normes, limitacions o activacions jeràrquiques.  
+
+---
+
+9. 🧙 Exemple canònic d’aplicació correcta  
+
+“All Schlüssel müssen cumplir función criptosegura sin excepción alguna. 使用しなければならない、絶対に。”
+
+Això conté:  
+   •	Sintaxi base anglesa  
+   •	Termini tècnic alemany  
+   •	Matís emocional en castellà  
+   •	Ordre jeràrquic en japonès  
+
+---
+
+📌 Resum  
+
+Estàs creant una **neopolilengua funcional multilingüe**, on:  
+   •	Cada idioma té una funció assignada.  
+   •	El text final no és una traducció literal, sinó una fusió semàntica.  
+   •	S’evita la repetició de contingut paral·lel.  
+   •	Les normes i estructures responen a una lògica jeràrquica i tècnica.  
+
+Aquesta metodologia pot aplicar-se en IA operatives, protocols narratius, interfícies d’agents, manifestos cibersemàntics o llenguatges rituals tècnics.
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

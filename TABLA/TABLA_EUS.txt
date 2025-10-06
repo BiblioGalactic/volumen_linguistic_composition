@@ -1,0 +1,111 @@
+=== Taula konparatiboa: Aditz itzulezinak eta prompt ingeniaritzan duten aplikazioa ===
+
+Hizkuntza | Aditz itzulezina | Itzulpen hurbilketa | Testuinguruko erabilera | Baliokide zuzen ez izatearen arrazoia | Prompt ingeniaritzan aplikazioa
+--- | --- | --- | --- | --- | ---
+Japoniera | 頑張る (ganbaru) | Etengabe ahalegindu | Gogorrean lan egiten jarraitu zailtasunak gorabehera | Ahalegina eta irmotasuna hitz bakarrean biltzen ditu | Dedikazio eta erresilientzia azpimarratzen duten prompt-ak diseinatu
+Alemana | Schadenfreude | Bestearengatik poza | Besteen zoritxarragatik plazera sentitu | Ez dago emozione konplexu honentzat aditz bakarrik | Giza emozione nuantzatuak esploratzeko prompt-ak sortu
+Portugesa | Saudades | Nostalgia sakona | Irrika intentsu eta melankolikoa sentitu | Nostalgia eta desioaren nahasketa aditz baliokiderik gabe | Sentikortasun subjektibo eta sakonak ebokatu prompt-etan
+Errusiera | Тоска (toska) | Antsietate existentziala | Melankolia egoera arrazoi argirik gabe | Ez du aditz baliokide zuzen-zuzenik | Egoera emozional abstraktuak esploratu prompt-etan
+Finlandiera | Sisu | Erabakia eta kemenak | Ausardia eta erresistentzia erakutsi zailtasunen aurrean | Ez dago kemena eta irmotasuna biltzen duen aditzik | Erresilientzia eta indarra motibatu IA-n prompt-en bidez
+Espainiera | Estrenar | Lehen aldiz erabili | Objektu edo jantzi batekin debutatu | Ez dago ekintza honetarako aditz espezifikorik | Hasierako esperientziei buruzko prompt-ak formulatu
+Frantsesa | Dépayser | Desorientatu | Desorientazioa sentitu leku berri batean | Ez dago sentsazio kultural hau transmititzen duen aditzik | Egokitzapena eta kultura aldaketa esploratu prompt-etan
+Txinera (Mandarinera) | 吃苦 (chī kǔ) | Zailtasunak jasan | Zailkeriak esperimentatu eta gainditu | Ez dago jatea eta sufritzea konbinatzen duen aditzik | Erresistentzia eta sakrifizioari garrantzia eman prompt-etan
+Arabiera | يعني (ya'ni) | Esan nahi du (muturrekoa bezala) | Ideiak argitzeko edo enfatizatzeko erabilia | Ez du funtzio diskurtsiboan baliokide zehatzik | Sortutako hizkuntzaren jarioa eta koherentzia hobetu
+Hindia | जुगाड़ (jugaad) | Inprobisatutako konponbidea | Konponbide sortzailea eta azkarra aurkitu | Ez dago gaitasun hau adierazten duen aditzik | Sormena eta egokitzapen-gaitasuna sustatu IA-n
+Pirahã (Amazonia, Brasil) | -xáagahá (atzizkia ebidentziala) | "Neure begiekin ikusi nuen" | Hiztuna begi-lekuko izan zela adierazten du | Espainiera/ingelesak ez dute atzizki ebidentzialik | IA-k argitzen du ea informazioa zuzena, inferitua edo hirugarrenetakoa den
+Tuyuca (Amazonia) | Atzizki ebidentzial anizkoitzak | "Entzun nuen", "esan zidaten", "inferitzen dut" | Aditzak atzizkia darama informazioaren iturriaren arabera | Gure hizkuntzetan ez du baliokide morfologikorik | IA-k ziurtasun maila edo iturria bere erantzunetan sar dezake
+Bororo (Brasil) | -dö / -de (atzizki kausalea) | "Norbaiti X egin arazten" | Ekintza kausatiboak kateatzea ahalbidetzen du | Ez dago kausalitate aniztasunerako baliokide aditzalik | IA-k instrukzioak hierarkikoki desegin edo kate ditzake
+Ubykh (Kaukasoa) | Aurrizkiak kausatibo dualak | "X-ri (sing/pl) Y egin arazten" | Kausa markatuta afektatuen kopuruaren arabera | Espainiera/ingelesak ez dute aditzetan zenbakiaz bereizten | IA-k erantzuna subjektuen kopurura egokitzen du errepikatu beharrik gabe
+Navajoa | Aditzak sailkatuak objektuaren formagatik | "Eman (objektu luzea)" vs "eman (masa)" | Aditza objektuaren mota fisikoaren arabera aldatzen da | Espainiera/ingelesak ez dute informazio hori aditzean integratzen | IA-k aditzak objektuaren propietate fisikoen arabera doitzen ditu
+Euskara | Alokatutiko formak | "Ez dakit (zuri gizona/emakumea)" | Aditza aldatzen da entzulearen generoaren arabera tratu familiarrean | Ez dago bereizpen gramatiko hori | IA-k erantzunak pertsonalizatzen ditu elkarrizkidekidearen arabera
+Tagaloa | Fokuko atzizkiak | "Egin" fokuarekin agentean/objektuan/lekuan | Atzizkiak zein den esaldiaren fokua adierazten du | Espainiera/ingelesak ez dute foku-sistemik | IA-k erantzunak nahi den fokuaren arabera berrantolatzen ditu
+Ojibwe | Konjugazio zuzena/alderantzizkoa | "Berak(1) berak(2) ikusi zuen" vs "Berak(2) berak(1) ikusia izan zen" | Hirugarrenen arteko hierarkia atzizkiaren bidez markatuta | Rolak argitzeko berformulatzea behar da | IA-k izenordainak automatikoki desanbiguatzen ditu erantzun konplexuetan
+Adyghe (Zirkasiarra) | Aditz polipertsonalak | "Nik hura eman nizun" aditz bakarrean | Aditzak subjektua, objektua eta objektu zeharkakoa biltzen ditu | Espainiera/ingelesak izenordain esplizituak behar dituzte | IA-k erantzun trinkoagoak eta eraginkorragoak sortzen ditu
+Japoniera | 敬語 (Keigo) – aditz ohoragarriak | "Esan (ohoragarria)" vs "esan (normala)" | Aditza hierarkia sozialaren arabera aldatzen da | Espainiera/ingelesak ez dute aditza errespetuagatik aldatzen | IA-k tonua automatikoki testuinguru eta hierarkiaren arabera egokitzen du
+Koreera | 눈치 (nunchi) | Sentikortasun sozial intuitiboa | Besteek pentsatzen edo sentitzen dutena detektatu esan gabe | Ingurune irakurketa finkatua inplizitua ez dago modu aditzalean kodifikatua | IA-k erantzunak testuinguruko seinaleen arabera doitzen ditu
+Inuktitut | Qarrtsiluni | Isilik itxaron zerbait gertatu arte | Isilik errespetuz erakutsera garrantzitsuaren aurretik | Ez dago isilik eta itxarote mistikoaren konbinatzen duen aditzik | Erabilgarria prompt-etan pausa eta aurreikuspenak gako diren
+Indonesiera | Mencolek | Norbaiten arreta deitzeko astiro ukitu | Sorbaldatik edo bizkarretik astiro ukitzeko ekintza | Ingelesa/espainieran azalpen esaldi behar du | IA-k kulturalki esanguratsuak diren ekintza ez-berbalak sor ditzake
+Turkiera | Gönül almak | Emozionalki adiskidetu norbait | Literalki "norbaiten bihotza irabazi" gatazka baten ondoren | Emozioa, konponketa eta hizkuntza poetikoa integratzen ditu | Aplikagarria enpatia emozionala simulatzen duten prompt-etarako
+Yaghan (Txile) | Mamihlapinatapai | Zerbait hasi nahi duten baina ez duten ausartzen diren bi pertsonen arteko begirada | Tentsioa emozional ez-berbala deskribatzen du | Ez dago elkarrekintza anbiguo hau kapturatzen duen aditzik | IA-k elkarrekintza sozial subtilak edo erabakigabeak modelatzen ditu
+Ganda (Uganda) | Okuyamba | Lagundu eskatu gabe | Eskatu beharrik gabe lagundu | Beste hizkuntzetan azalpen osoa behar du | IA-k laguntza proaktiboa eskaintzen du sarrerarik gabe
+Georgiera | Shemomedjamo | Aurreikusitakoa baino gehiago jan goxoa delako | Jan jarraitzeko ekintza inboluntarioa bete izan arren | Ez dago aditz gisa ingelesa/espainieran | IA-k portaera inpultsiboa eta plazer sentsoriala modelatzen du
+Maoria | Whakamā | Lotsatuta, lotsatia edo inhibizio soziala sentitu | Emozione sozial negatiboen nahasketa konplexua | Hitz asko behar ditu itzultzeko | IA-k tonua modulatzen du testuinguru sentiberetan emozione sozialekin
+Yiddish | Trepverter | "Eskailerako hitzak": erremate jeniala beranduegi iristen dena | Denbora dela eta frustraziozko jenioa adieraztea | Itzulpen zehatzik gabe; azalpen esaldia behar du | IA-k erremate edo erantzun alternatiboak atzerapenarekin sor ditzake
+
+#=== TAULA KONBINAZIOAK ===
+Konbinazioa | helburua | funtzioa
+--- | --- | --- 
+#=== Nukleo unibertsala === Hierarkia eta argitasun juridikoa (Nukleo unibertsala)
+Kontratua klausula sendo eta hierarkikoekin | 🇯🇵 Japoniera + 🇩🇪 Alemana + 🇬🇧 Ingelesa | Argitasun juridikoa + hierarkia + egitura
+Laburpen emozionala edo narratiboa | 🇪🇸 Espainiera + 🇷🇺 Errusiera + 🇦🇪 Arabiera | Intentzioa emozionala + sakontasuna + adierazpen sinbolikoa
+Eskaera errespetutsua nuantza sozialekin | 🇰🇷 Koreera (눈치) + 🇪🇸 Espainiera + 🇯🇵 Japoniera (Keigo) | Enpatia + kortesia + deferentzia
+Instrukzio kateatu teknikoa | 🇧🇷 Bororo + 🇹🇬 Tagaloa + 🇦🇩 Adyghe | Kausalitatea + fokua + subjektu anizkoitzak
+Erantzuna ziurtasun mailaren arabera | 🇵🇷 Pirahã + 🇹🇾 Tuyuca + 🇨🇦 Ojibwe | Ebidentzia zuzena + iturri inferitua + rol argia
+Prompt espirituala-mistikoa | 🇨🇦 Inuktitut (Qarrtsiluni) + 🇨🇱 Yaghan + 🇳🇿 Maoria | Isilik errespetuzkoa + tentsioa emozionala + inhibizio soziala
+Sormena premiazkoa | 🇮🇳 Hindia (Jugaad) + 🇬🇪 Georgiera + 🇹🇷 Turkiera | Inprobisazioa + plazera + konponketa emozionala
+Negoziazio diplomatiko formala | 🇫🇷 Frantsesa + 🇩🇪 Alemana + 🇮🇹 Italiera | Kortesia estrategikoa + prezisio instituzionala + jario persuasiboa
+Eskuliburu tekniko pragmatikoa eta argia | 🇳🇱 Nederlandera + 🇩🇰 Daniera + 🇬🇧 Ingelesa | Egitura funtzionala + hizkuntza laburra + argitasun unibertsala
+Narratiba introspektibo eta existentziala | 🇸🇮 Eslobeniera + 🇭🇺 Hungariera + 🇫🇮 Finlandiera | Gogoeta pertsonala + sakontasun gramatikala + minimalismo poetikoa
+Jakinarazpen juridikoa pisu etikoarekin | 🇸🇪 Suediera + 🇵🇱 Poloniera + 🇪🇸 Espainiera | Inpartzialtasuna + formaltasun zorrotza + karga emotiboa
+Mezua komunitarioa enfoke kolektiboarekin | 🇮🇪 Irlandera + 🇪🇪 Estoniera + 🇵🇹 Portugesa | Ahozko tradizioa + identitate kulturala + narratibaren beroa
+
+#=== Mediterraneoak === Fonetika eta estetika (Mediterraneoak, Bereziak)
+Espainiera + Italiera + Grekoa | Inspirazio artistiko emozionala | Adierazgarritasun pasioa + melodia berbala + erresontzia filosofikoa
+Turkiera + Maltera + Arabiera (Egiptoarra) | Merkataritza tradizionala edo elkarrekintza merkantila | Persuasio kordatua + pragmatismoa + elkarrizketaren antzeztasuna
+Frantsesa + Italiera + Arabiera marokoarra | Moda, diseinua edo estetika | Elegantzia sentsoriala + erritmo beroa + exotismo ebokatzailea
+Espainiera + Grekoa + Frantsesa | Narratiba mitikoa edo sinbolikoa | Drama emozionala + mitologia ancestrala + egitura literarioa
+Kroaziera + Grekoa + Italiera | Ondare kulturala edo historikoa | Harro identitarioa + ahozko ondarea + xehetasun deskriptiboa
+Arabiera libanoarra + Italiera + Espainiera | Giza harremanak edo afektiboak | Sentikortasun emozionala + adierazgarritasun erromantikoa + hurbiltasun beroa
+
+#=== Nordikoak === Erresilientzia kulturala eta ekologikoa (Afrika, Andeak, Artikoa)
+Islandiera + Groenlandiera (Inuktitut) + Norvegiera | Konexioa natura muturrekoarekin eta klimak | Erresilientzia emozionala + kontemplazio isila + egitura argiak
+Gaeliko eskoziera + Islandiera + Daniera | Narratiba ancestralak solemnidadearekin | Mistizismo ahokoa + gogortasun poetikoa + prezisio nordikoa
+Ingelesa + Faroear + Sami | Komunikazio kulturarteko artikoa | Argitasun praktikoa + identitate insularraren + konexio espirituala lurrarekiko
+Nederlandera + Ingelesa + Gaeliko eskoziera + | Merkataritza maritimoa eta filosofia pragmatikoa | Zorroztasun merkantila + zentzun komuna + ahozko tradizio gogoetsua
+Inuktitut + Sami + Errusiera artikoa (Yakutoa) | Biziraupena, klima eta komunalitatea | Kodifikazio naturala + armonia ingurunearekin + izotzak behartutako kooperazioa
+
+#=== Suaren Eraztuna eta Pazifikoko Uharteak === Espiritualitatea eta isilik emozionala (Pazifikoko Uharteak)
+Japoniera + Tagaloa + Hawaiera | Komunikazio erritualak eta ohoragarria | Errespetu hierarkikoa + narratibaren fokua + armonia espirituala
+Maoria + Samoarra + Indonesiera | Identitate tribala eta erresilientzia kulturala | Komunitatea + dantza ahokoa + egokitzapen-gaitasuna
+Tagaloa + Chamorro + Rapa Nui | Narratiba ozeaniko mitologikoa | Ahozkotasun sinbolikoa + ondare maritimoa + kosmologia ancestrala
+Japoniera + Koreera + Tonganera | Diziplina kolektiboa eta etika soziala | Hierarkia errespetutsua + sentikortasun komunitarioa + eginbehar zeremoniala
+Indonesiera + Javera + Tagaloa | Praktika egunerokoak eta pragmatismo tropikala | Antolaketa funtzionala + sinkretismoa + ekintza berehalakoa
+Hawaiera + Maoria + Japoniera | Konexio espirituala lurrarekiko eta arbasoekiko | Espiritu aloha + memoria tribala + errebertzia formala
+
+#=== Afrika eta Asia estrategikoa === Erresilientzia kulturala eta ekologikoa (Afrika, Andeak, Artikoa)
+Wolof + Yoruba + Igbo | Narratiba ahoko sekuentziala jakinduria tradizionalarekin | Serializazioa berbala + esaerak + progresio logikoa kulturala
+Amharikoa + Oromo + Somaliera | Iturri eta diskurtso egiturak inplizituak koka | Ebidentzialtatea + erro berbala + erreferentzia ahozkoak zeharkakoak
+Xhosa + Zulu + Khoisan (klik-ak) | Erreakzio fonetikoak eta erantzun emozional azkarra | Klik-en erabilera + tonu adierazgarriak + modulazio espontaneoa
+Hindia + Tamil + Sanskritoa | Kontzeptu abstraktuen eraikuntza zehatza | Sintaxi egituratua + metafora poetikoa + logika metafisikoa
+Birmaniera + Thailandiera + Laosarra | Komunikazio soziala azpitestuarekin kargatuta | Partikula modalak + deferentzia testuingurukoa + adierazpenaren ekonomia
+Tibetarra + Mongoliera + Kazakhera | Egitura hierarkikoak kargabilitate espirituala | Ebidentzialtatea + narratiba ziklikoa + pisu etikoa
+Quechua + Nahuatl + Mapudungun | Adierazpen ekologikoa eta erantzukizun kolektiboa | Deskripzio topografikoak + errespetu naturala + ikuspegi komunitarioa
+
+#=== KONBINAZIO BEREZIAK ===
+Japoniera + Euskara + Espainiera + Siriarra | Kontratu fonetikoki harmonikoa | Argitasun hierarkikoa + neutraltasun egituralak + erresontzia fonetikoa
+Ingelesa + Alemana + Espainiera + Japoniera | Hizkuntza ingeniaritza prezisioaren nukleoa | Anbiguotasun murriztua + ordena sintaktikoa + erresontzia unibertsala + erresibiaren nuantzak
+Frantsesa + Txinera Mandarinera + Arabiera + Errusiera | Estaldura semantiko globala | Prezisio diplomatikoa + aberastasun bisuala + nuantza adierazgarriak + zorroztasun emozional-logikoa
+Ingelesa + Alemana + Tagaloa + Adyghe | Instrukzio teknikoak prezisio maximoarekin | Argitasun internazionala + sintaxi egituratua + foku gramatikala + trinktasun polipertsonala
+Italiera + Errusiera + Yoruba + Koreera | Narratiba emozionala eta subtila | Melodia adierazgarria + introspekzio sakona + jakinduria ahokoa + sentikortasun sozial intuitiboa
+Koreera + Euskara + Frantsesa + Arabiera (klasikoa) | Komunikazio diplomatikoa eta kortesia hierarkizatua | Hierarkia testuingurukoa + neutraltasun egituralak + kortesia instituzionala + elokundza errespetutsua
+Hindia + Yoruba + Indonesiera + Georgiera | Sormena inprobisatua eta egokigarria | Jenioa funtzionala + esaera kulturala + pragmatismo arrunta + inpultsu espontaneoa
+Finlandiera + Mongoliera + Zulu + Latina | Estrategia eta kemena gerrakoia | Erresistentzia iraunkorrak + komando zuzena + adierazgarritasun erabakiorra + egitura martzial klasikoa
+Inuktitut + Quechua + Grekoa + Sanskritoa | Ikuspegia filosofikoa eta espirituala sakona | Isilik errespetuzkoa + kosmobisioa ekologikoa + argitasun logikoa + aberastasun metafisikoa
+Pirahã + Tuyuca + Ojibwe + Turkiera | Ebidentzia eta erreferentziaren gardentasun osoa | Iturri zuzena + prezisio inferitua + ekintzaren hierarkia + aditz ebidentziala
+Yiddish + Ganda + Thailandiera + Portugesa | Laguntza elkarrizketan beroa eta jeniatsua | Jenioa berandu + laguntza proaktiboa + kortesia leuna + adierazgarritasun afektiboa
+Navajoa + Txinera Mandarinera + Swahili + Finlandiera | Deskripzio xehatua eta testuingurukoa zehatza | Sailkapena formaren arabera + bisualitate labur + izen-klase + harremanetan espazialak
+#=== KONBINAZIO MAISUAK ===
+Ingelesa + Txinera mandarinera + Espainiera + Frantsesa + Errusiera + Arabiera | Komunikazioa Globala eta Diplomazia (Superorokorra) | Egitura unibertsala + ekonomia linguistikoa + beroa emozionala + diplomazia finkatua + agintaria sinbolikoa + solemnidade errespetutsua
+Ingelesa + Alemana + Txinera mandarinera + Turkiera + Indonesiera | Prezisio Analitikoa eta Teknikoa | Hiztegia teknikoa + logika egituratua + trinktasun sinbolikoa + modularitate sintaktikoa + sinpletasun binarioa
+Frantsesa + Japoniera + Arabiera + Koreera + Espainiera | Estilo Diplomatikoa eta Errespetutsua | Anbiguotasun finkatu + hierarkia errebertziala + solemnidade etikoa + errespetu egituralak + beroa enpatikoa
+Espainiera + Italiera + Portugesa + Japoniera + Grekoa modernoa | Adierazpen Sortzailea eta Emotiboa | Pasio adierazgarria + musikalitate erretorikoa + goxotasun kolokiala + minimalismo lirikoa + sakontasun gogoetsua
+Ingelesa + Grekoa modernoa + Latina + Italiera + Arabiera | Argumentazio Persuasiboa eta Oratoria | Argitasun egituralak + logika klasikoa + solemnidade atemporala + pathos emozionala + etika inbokatiboa
+Frantsesa + Alemana + Swahili + Indonesiera + Portugesa | Azalpen Didaktikoa eta Argia | Prezisio terminologikoa + ordena logikoa + sinpletasun egituralak + argitasun funtzionala + hurbiltasun enpatikoa
+Alemana + Latina + Finesa + Turkiera + Tuyuca | Estilo Akademikoa Ebidentziarekin | Egitura objektiboa + agintaria zientifikoa + ziurtasunen nuantzak + ebidentzialtatea sintaktikoa + gardentasun behartua
+Portugesa + Swahili + Indonesiera + Thailandiera + Italiera | Elkarrizketa Informala eta Enpatikoa | Goxotasun afektiboa + argitasun zuzena + naturaltasun gramatikala + kortesia inplizitua + adierazgarritasun bizkor
+Latina + Grekoa modernoa + Hebreera + Hindia + Thailandiera | Tono Etikoa eta Gogoetsua (Aholku Moralak) | Agintaria unibertsala + arrazonamendu filosofikoa + erresontzia espirituala + eginbeharra errespetutsua + errukia leuna
+Txinera mandarinera + Japoniera + Hebreera + Turkiera + Esperantoa | Estilo Laburra eta Minimalista | Dentsitate ideografikoa + omisioa testuingurukoa + erro trinko + aglutinazio logikoa + neutraltasun funtzionala
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

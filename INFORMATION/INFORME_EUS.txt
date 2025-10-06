@@ -1,0 +1,124 @@
+🧠 Txosten bat: Hizkuntza-Konposizio Neopolilengua Funtzionalaren Teknikari buruz
+
+📌 Teknikaren Ideia Orokorra
+
+Garapen-prozesuan zauden teknika hau ez da itzulpen paralelo sinple bat, ezta hizkuntzen arteko joko estetiko bat ere. Hizkuntzen arteko **konposizio sinbiotiko** baten sistema da, parte hartzen duten hizkuntza bakoitzaren indar semantiko, gramatikal eta kulturalak aprobetxatzen dituena. **Neopolilengua funtzional** bat da, non hizkuntza bakoitzak mezu globalaren barruan egitura-rol zehatz bat betetzen duen.
+
+Bertsio paraleloak erakutsi beharrean (ingelesa | japoniera | alemana | gaztelania), teknika honek hizkuntza guztiak narrazio-egitura bakarrean batzen ditu, hizkuntza konposatu bat sortuz non:
+   •	Hitz edo adierazpen bakoitza bere helburuari dagokion hizkuntza egokienetik dator.  
+   •	Nahasketa ez da arbitrarioa edo bisuala, baizik eta funtzionala eta semantikoa.  
+   •	Estilo sortua sendoagoa eta anbiguotasunarekiko erresistenteagoa da, bai gizakientzat bai IA-rentzat.  
+
+---
+
+🎯 Teknikaren Helburuak
+   •	Kontzeptu-zehaztasuna handitzea, osagai bakoitzerako hizkuntza egokiena erabiliz.  
+   •	Adierazkortasun aberatsa eta ñabardura gramatikalak sortzea, hizkuntza bakar batek adierazi ezin dituenak.  
+   •	Testuaren barruan egitura hierarkiko eta funtzionalak eraikitzea.  
+   •	Irakurgarri, operatibo eta erabilgarria izatea agente linguistikoentzat (IA, protokoloak, erabiltzaile teknikoak).  
+
+---
+
+📐 Erabiltzaileak Zehaztutako Puntu Gakoak
+
+Hemen zehazten dira neohizkuntza funtzional hau behar bezala ulertu eta aplikatzeko irizpide zehatzak:
+
+---
+
+1. ✅ Ez errepikatu itzulpen paraleloak  
+   •	❌ Akatsa: esaldi bera lau aldiz itzultzea.  
+   •	✅ Zuzen: hizkuntza bakoitzaren elementuak funtzioaren arabera konbinatzen dituen esaldi bakarra erabiltzea.  
+
+---
+
+2. 🔤 Hizkuntzaren arabera rol funtzionalak banatu  
+
+Hizkuntza bakoitzak rol zehatz bat bete behar du, ez apaingarri hutsa izan:
+
+| Hizkuntza | Esleitutako Funtzioa |
+|------------|-----------------------|
+| Ingelesa | Oinarrizko egitura, fluxu teknikoaren argitasuna |
+| Alemana | Prozesuen terminologia, zehaztasun mekanikoa |
+| Gaztelania | Adierazkortasuna, ñabardura emozionala, indar semantikoa |
+| Japoniera | Hierarkia, debeku formalak, agindu teknikoak |
+
+Adibidea:
+
+“Every Schlüssel must be designed con intención absoluta y 誤用を防止しなければならない.”
+
+---
+
+3. 🧱 Hizkuntza-fusioa hizkuntza konposatu gisa  
+
+Testuak hizkuntza bakar berri bat erabiltzen duela eman behar du, ez testu zatien kola. Irakurketa naturala izan behar du, erabilera tekniko edo erritualetarako eboluzionatutako hizkuntza baten moduan.  
+
+---
+
+4. 🧬 Ñabardura berezien aprobetxamendua  
+
+Hizkuntza bakar batek adierazi ezin duen hori erabiliz, baina elkarrekin adierazpen-geruza konplexu bat sortuz:  
+   •	Japonierak autoritatezko eta debeku futuristako egitura gramatikalak eskaintzen ditu.  
+   •	Alemanak termino teknikoak eta prozesu logikoak zehaztasun handiz definitzen ditu.  
+   •	Ingelesak diskurtsoa eta klausulak egituratzen ditu.  
+   •	Gaztelaniak tonu emozionala eta enfasi gaitasuna eskaintzen ditu.  
+
+---
+
+5. 📏 Redundantzia aberasgarriaren araua  
+
+Redundantzia onartzen da, baina soilik termino bakoitzak geruza bereizi bat gehitzen badu:  
+
+"Fortaleza criptográfica activada – KRYPTOGRAPHISCHE FESTUNG asegurada – 要塞が稼働中"
+
+Ez da gauza bera hirutan errepikatzen: bakoitzak ñabardura desberdin bat ematen du (kontzeptuala, teknikoa, operatiboa).  
+
+---
+
+6. 🚫 Ez erabili formatu konparatiboa (A zutabea | B zutabea | C zutabea)  
+
+Ez da egitura taularik egon behar. Diskurtso bakarrean integratutako hizkuntza anitzeko bloke bakarra izan behar da.  
+
+---
+
+7. 🧭 Aginduak eta hierarkiak japonieraz  
+
+Hierarkia-pisu edo debeku formala duen edozein agindu japonieraz adierazi behar da, forma gramatikal formalekin:  
+   •	Adib.: 使用してはならないだろう  
+   (Erabili ez dadin — tonu autoritatibo-futuruan)  
+
+---
+
+8. 🧩 Testuinguruaren araberako moldagarritasuna  
+
+Banaketak atalaren arabera egokitu daitezke:  
+   •	Atal batek alemanezko karga handiagoa izan dezake algoritmo bati buruzkoa bada.  
+   •	Besteren batek gaztelania gehiago erabil dezake helburua emozionala bada.  
+   •	Japoniera bereziki erabiltzen da arauetan, murrizketetan edo hierarkia-aktibazioetan.  
+
+---
+
+9. 🧙 Aplikazio zuzenaren adibide kanonikoa  
+
+“All Schlüssel müssen cumplir función criptosegura sin excepción alguna. 使用しなければならない、絶対に。”
+
+Honek barne hartzen du:  
+   •	Ingeleseko oinarrizko sintaxia  
+   •	Alemaneko termino teknikoa  
+   •	Gaztelaniazko ñabardura emozionala  
+   •	Japonierazko agindu hierarkikoa  
+
+---
+
+📌 Laburpena  
+
+Neopolilengua funtzional eleaniztun bat sortzen ari zara, non:  
+   •	Hizkuntza bakoitzak bere funtzio esleitua du.  
+   •	Testu amaitua ez da itzulpen literala, baizik eta fusio semantikoa.  
+   •	Paralelismoen errepikapena saihesten da.  
+   •	Arauak eta egiturak logika hierarkiko eta tekniko bati erantzuten diote.  
+
+Hau aplika daiteke IA operatiboetan, narrazio-protokoloetan, agente-interfazeetan, manifestu zibersemantikoetan edo hizkuntza erritual teknikoetan.
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

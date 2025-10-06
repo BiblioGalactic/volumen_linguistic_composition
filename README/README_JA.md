@@ -61,3 +61,7 @@
 本技法は、**Eto Demerzel** によって、「*AI with Personality*」という実験的フレームワークおよび「*Contextual Modular Language for Local Models*」というシステムの一部として開発されました。
 
 本書は、機能的ネオポリリンガル論理に基づいて記述されたすべての `.txt` ファイルまたは人格システムの**基礎ガイド**となります。
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic
